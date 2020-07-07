@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Олег 👾 Саломон](https://up.htmlacademy.ru/javascript/20/user/1505643).
+* Студент: [Олег 👾 Паршин](https://up.htmlacademy.ru/javascript/20/user/1505643).
 * Наставник: [Владислав 👻 Молчанов](https://htmlacademy.ru/profile/id137398).
 
 ---
